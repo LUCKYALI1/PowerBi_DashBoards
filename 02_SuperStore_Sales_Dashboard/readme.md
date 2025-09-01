@@ -1,4 +1,5 @@
 # 📊 Super Store Sales Dashboard (Power BI)
+![Dashboard Preview](screenshot.png)
 
 ## Overview
 This project is a **Power BI Sales Dashboard** built using the *Superstore dataset*.  
